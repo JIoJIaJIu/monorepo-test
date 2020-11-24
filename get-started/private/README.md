@@ -49,7 +49,7 @@ You can run [`dvc pull`](https://man.dvc.org/pull) to download the data:
 $ dvc pull
 ```
 
-## Running in your environment
+## Running in your environment (test)
 
 Run [`dvc repro`](https://man.dvc.org/repro) to reproduce the
 [pipeline](https://dvc.org/doc/commands-reference/pipeline):
