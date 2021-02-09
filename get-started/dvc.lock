@@ -53,4 +53,4 @@ evaluate:
   - path: prc.json
     md5: cd433c034acfa2ebd5679a3838b65c7c
   - path: scores.json
-    md5: 662bf00be6fe3172b69944b9d6f704cd
+    md5: 06df1f4765480cd62052eab00517a8d2
